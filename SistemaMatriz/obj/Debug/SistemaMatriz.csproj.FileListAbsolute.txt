@@ -1,0 +1,8 @@
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaMatriz_Dev\SistemaMatriz\bin\Debug\SistemaMatriz.exe.config
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaMatriz_Dev\SistemaMatriz\bin\Debug\SistemaMatriz.exe
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaMatriz_Dev\SistemaMatriz\bin\Debug\SistemaMatriz.pdb
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaMatriz_Dev\SistemaMatriz\obj\Debug\SistemaMatriz.csproj.AssemblyReference.cache
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaMatriz_Dev\SistemaMatriz\obj\Debug\SistemaMatriz.csproj.SuggestedBindingRedirects.cache
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaMatriz_Dev\SistemaMatriz\obj\Debug\SistemaMatriz.csproj.CoreCompileInputs.cache
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaMatriz_Dev\SistemaMatriz\obj\Debug\SistemaMatriz.exe
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaMatriz_Dev\SistemaMatriz\obj\Debug\SistemaMatriz.pdb
